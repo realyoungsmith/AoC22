@@ -4,3 +4,4 @@ Day by Day attempts and (hopefully) solutions for Advent of Code.
 I hope to mix up the languages.
 
 ## Day 1: Calorie Counting - Fully Solved with VBA
+## Day 2: Rock Paper Scissors - Fully Solved with VBA
